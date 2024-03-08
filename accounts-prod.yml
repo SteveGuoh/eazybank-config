@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
     name: "Steve Guo - Prod Lead"
-    email: "steveg@eazybank.com"
+    email: "{cipher}1fb2a358e3b872ab018e0db4e831232863c14f2c80a3bf63dcf51e1f64f823e3cfeb7bdbb71a98559160bf403b5c4011"
   onCallSupport:
     - (222) 555-1234
     - (222) 567-5678
