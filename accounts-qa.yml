@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Steve Doe - QA Lead"
+    email: "steved@eazybank.com"
+  onCallSupport:
+    - (666) 555-2345
+    - (666) 523-5678
