@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod webhook APIs "
+  message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Steve Guo - Prod Lead"
     email: "{cipher}1fb2a358e3b872ab018e0db4e831232863c14f2c80a3bf63dcf51e1f64f823e3cfeb7bdbb71a98559160bf403b5c4011"
